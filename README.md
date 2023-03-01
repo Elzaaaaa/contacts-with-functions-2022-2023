@@ -1,1 +1,9 @@
-# contacts-with-functions-2022-2023
+# contacts back-end app written in Python
+
+I have created a simple contacts manegement application using Python
+
+To develop the app I have used the following Python programming elements:
+
+-function
+-json module
+-file read and write
