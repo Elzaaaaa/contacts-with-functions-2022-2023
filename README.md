@@ -4,6 +4,6 @@ I have created a simple contacts manegement application using Python
 
 To develop the app I have used the following Python programming elements:
 
--function
--json module
--file read and write
+- function
+- json module
+- file read and write
